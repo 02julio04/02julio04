@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=02julio04&label=Profile%20views&color=0e75b6&style=flat" alt="02julio04" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **pjuliogf0204@gmail.com**
 
